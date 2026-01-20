@@ -1,0 +1,54 @@
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#C9A227',
+    'primaryTextColor': '#1F2937',
+    'primaryBorderColor': '#1F2937',
+    'secondaryColor': '#6B7280',
+    'tertiaryColor': '#E5E7EB',
+    'lineColor': '#1F2937',
+    'textColor': '#1F2937',
+    'taskBkgColor': '#C9A227',
+    'taskBorderColor': '#1F2937',
+    'taskTextColor': '#1F2937',
+    'taskTextLightColor': '#1F2937',
+    'taskTextOutsideColor': '#1F2937',
+    'taskTextClickableColor': '#1F2937',
+    'activeTaskBkgColor': '#D4AF37',
+    'activeTaskBorderColor': '#1F2937',
+    'doneTaskBkgColor': '#9CA3AF',
+    'doneTaskBorderColor': '#1F2937',
+    'critBkgColor': '#1F2937',
+    'critBorderColor': '#C9A227',
+    'todayLineColor': '#C9A227',
+    'sectionBkgColor': '#F3F4F6',
+    'sectionBkgColor2': '#E5E7EB',
+    'gridColor': '#D1D5DB',
+    'altSectionBkgColor': '#F9FAFB'
+  }
+}}%%
+gantt
+    title Bauträger-Tool Entwicklung - 12 Monate
+    dateFormat  YYYY-MM
+
+    section Bundle 1
+    Projekterfassung & Dokumentenverwaltung    :b1a, 2025-01, 2M
+    Vertriebsanbindung                         :b1b, after b1a, 1M
+    Status-Sync & Unterlagennachforderung      :b1c, after b1b, 1M
+
+    section Bundle 2
+    Projekt-Bewertungssystem (Pre-Check)       :b2a, 2025-05, 1M
+    Bauverfolgung Grundlagen                   :b2b, after b2a, 1M
+    Erweiterte Bauverfolgung                   :b2c, after b2b, 1M
+    Integration & Reporting                    :b2d, after b2c, 1M
+
+    section Bundle 3
+    Übergabe-System                            :b3a, 2025-09, 1M
+    Notartermin-Management                     :b3b, after b3a, 1M
+    Mietverwaltung Grundlagen                  :b3c, after b3b, 1M
+    Dashboard & Stabilisierung                 :b3d, after b3c, 1M
+
+    section Meilensteine
+    Digitale Schnittstelle zum Vertrieb        :milestone, m1, 2025-05, 0d
+    Käufer sehen Baufortschritt                :milestone, m2, 2025-09, 0d
+    Vollständiges System live                  :milestone, m3, 2026-01, 0d
