@@ -7,23 +7,23 @@ pdf_options:
 
 ## Produktvision
 
-Vollständiges digitales Werkzeug für Bauträger zur Verwaltung von Bauprojekten - von der Projekteingabe über Vertriebsanbindung und Bauverfolgung bis zur Übergabe und Mietverwaltung.
+Vollständiges digitales Werkzeug für Bauträger zur Verwaltung von Bauprojekten - von der Projekteingabe über Vertriebsanbindung und Bauverfolgung bis zur Übergabe und Erstvermietung.
 
 **Modulares System:** Bauträger-Modul kann unabhängig oder kombiniert mit Sales-Modul genutzt werden.
 
 ---
 
-## Entwicklungsplan: 3 Bundles à 4 Monate
+## Entwicklungsplan: 3 Meilensteine à 4 Monate
 
-| Bundle | Zeitraum | Schwerpunkt |
-|--------|----------|-------------|
-| **Bundle 1** | Monat 1-4 | Projekteingabe & Vertriebsanbindung |
-| **Bundle 2** | Monat 5-8 | Projektbewertung & Bauverfolgung |
-| **Bundle 3** | Monat 9-12 | Übergabe & Mietverwaltung |
+| Meilenstein | Zeitraum | Schwerpunkt |
+|-------------|----------|-------------|
+| **Meilenstein 1** | Monat 1-4 | Projekteingabe & Vertriebsanbindung |
+| **Meilenstein 2** | Monat 5-8 | Dashboards & Bauverfolgung |
+| **Meilenstein 3** | Monat 9-12 | Übergabe, Erstvermietung & KI |
 
 ---
 
-# Bundle 1: Projekteingabe & Vertriebsanbindung
+# Meilenstein 1: Projekteingabe & Vertriebsanbindung
 
 **Ziel:** Bauträger können Projekte vollständig digital erfassen und nahtlos an Vertriebspartner im BlackVesto Ökosystem übergeben.
 
@@ -75,7 +75,7 @@ Vollständiges digitales Werkzeug für Bauträger zur Verwaltung von Bauprojekte
 
 ---
 
-## Bundle 1 Ergebnis
+## Meilenstein 1 Ergebnis
 
 Nach 4 Monaten:
 - ✅ Vollständige Projekterfassung inkl. aller Dokumente und Bilder
@@ -86,9 +86,9 @@ Nach 4 Monaten:
 
 ---
 
-# Bundle 2: Projektbewertung & Bauverfolgung
+# Meilenstein 2: Dashboards & Bauverfolgung
 
-**Ziel:** Automatische Projektbewertung und lückenlose Dokumentation des Baufortschritts.
+**Ziel:** Übersichtliche Dashboards und lückenlose Dokumentation des Baufortschritts.
 
 ## Monat 5: Projekt-Bewertungssystem (Pre-Check)
 
@@ -133,22 +133,27 @@ Nach 4 Monaten:
 
 ---
 
-## Monat 8: Integration & Reporting
+## Monat 8: Dashboards, Integration & Reporting
 
 **Features:**
+- **Übersichts-Dashboard:**
+  - Projektübersicht mit Verkaufsstatus aller Einheiten
+  - Baufortschritt-Zusammenfassung
+  - Kennzahlen auf einen Blick
 - Baufortschritt für Vertriebspartner sichtbar
 - **Käufer-Updates:** Baufortschritt automatisch an Käuferportal (MyVesto)
 - Foto-Sharing mit Käufern (optional)
 - Verzögerungsindikatoren in allen Ansichten
 - Fortschritts-Reports (PDF-Export)
 
-**Nutzen:** Transparenz für alle Beteiligten, weniger Rückfragen zum Baustand.
+**Nutzen:** Zentrales Dashboard für alle wichtigen Kennzahlen, Transparenz für alle Beteiligten.
 
 ---
 
-## Bundle 2 Ergebnis
+## Meilenstein 2 Ergebnis
 
 Nach 8 Monaten zusätzlich:
+- ✅ Übersichts-Dashboard mit Kennzahlen
 - ✅ Automatische Projektbewertung mit Ampel-System
 - ✅ Vollständige Bauphasen-Dokumentation
 - ✅ Gantt-Diagramm und Kosten-Tracking
@@ -157,9 +162,9 @@ Nach 8 Monaten zusätzlich:
 
 ---
 
-# Bundle 3: Übergabe & Mietverwaltung
+# Meilenstein 3: Übergabe, Erstvermietung & KI
 
-**Ziel:** Digitale Übergabe-Protokolle und Grundlagen für Mietverwaltung.
+**Ziel:** Digitale Übergabe-Protokolle, Erstvermietungsmanagement und KI-gestützte Dokumentenklassifizierung.
 
 ## Monat 9: Übergabe-System
 
@@ -187,43 +192,40 @@ Nach 8 Monaten zusätzlich:
 
 ---
 
-## Monat 11: Mietverwaltung Grundlagen
+## Monat 11: Erstvermietungsmanagement
 
 **Features:**
-- Mieter-Stammdaten (Name, Kontakt, Einzugsdatum)
-- Mietvertragserfassung:
-  - Kaltmiete, Nebenkosten
-  - Vertragslaufzeit
-  - Kündigungsfristen
-  - Staffelmiete (optional)
-- Mieterübersicht pro Objekt und Projekt
+- Mietinteressenten-Verwaltung
+- Besichtigungstermin-Koordination
+- Mietvertragsabschluss-Workflow
+- Übergabe an Eigentümer/Hausverwaltung
+- Dokumentation der Erstvermietung
 
-**Nutzen:** Alle Mieterdaten zentral verwaltet, Grundlage für Miet-Controlling.
+**Nutzen:** Strukturierter Prozess von der Fertigstellung bis zur ersten Vermietung, nahtlose Übergabe an externe Verwalter.
 
 ---
 
-## Monat 12: Dashboard & Stabilisierung
+## Monat 12: KI-Dokumentenklassifizierung & Stabilisierung
 
 **Features:**
-- **Miet-Dashboard:**
-  - Auslastungsquote
-  - Leerstandsübersicht
-  - Mieterliste mit Vertragsdetails
-- Kündigungs-Tracking
-- Vertrags-Timeline
+- **KI basierte Dokumentenklassifizierung:**
+  - Automatische Dokumentenerkennung
+  - Intelligente Kategorisierung (Grundrisse, Verträge, Genehmigungen)
+  - Metadaten-Extraktion
+- Erstvermietungs-Dashboard mit Vermietungsstatus
 - Systemstabilisierung und Performance-Optimierung
 
-**Nutzen:** Überblick über alle Mietverhältnisse auf einen Blick.
+**Nutzen:** KI-gestützte Dokumentenverarbeitung spart Zeit, automatische Klassifizierung reduziert manuelle Arbeit.
 
 ---
 
-## Bundle 3 Ergebnis
+## Meilenstein 3 Ergebnis
 
 Nach 12 Monaten zusätzlich:
 - ✅ Digitale Übergabeprotokolle
 - ✅ Notartermin-Koordination
-- ✅ Mieterverwaltung mit Vertragsdaten
-- ✅ Auslastungs-Dashboard
+- ✅ Erstvermietungsmanagement
+- ✅ KI basierte Dokumentenklassifizierung
 
 ---
 
@@ -239,7 +241,7 @@ Nach 12 Monaten zusätzlich:
 | **Projektbewertung** | Ampel-System (Energie, Rendite, Hausgeld, Lage) |
 | **Bauverfolgung** | Meilensteine, Gantt, Kosten, Fotos, Benachrichtigungen |
 | **Übergabe** | Protokolle, Zählerstände, Mängel, Notartermine |
-| **Mietverwaltung** | Mieter, Verträge, Auslastung |
+| **Erstvermietung & KI** | Erstvermietungsmanagement, KI-Dokumentenklassifizierung |
 
 ---
 
@@ -255,7 +257,7 @@ Nach 12 Monaten zusätzlich:
 
 ## Zahlungsplan
 
-Monatliche Zahlung à **6.667 €** (12 Raten = 80.000 €)
+Monatliche Zahlung à **6.600 €** (12 Raten < 80.000 €)
 
 ## Projektbegleitung
 
@@ -288,4 +290,4 @@ Monatliche Zahlung à **6.667 €** (12 Raten = 80.000 €)
 **Meilensteine:**
 - **Monat 4:** Vertriebsanbindung komplett - Digitale Schnittstelle zum Vertrieb (kein Mail oder WhatsApp mehr nötig)
 - **Monat 8:** Bauverfolgung mit Käufer-Updates live
-- **Monat 12:** Vollständiges System inkl. Mietverwaltung
+- **Monat 12:** Vollständiges System inkl. Erstvermietung & KI-Dokumentenklassifizierung
