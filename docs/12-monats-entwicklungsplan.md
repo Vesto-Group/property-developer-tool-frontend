@@ -136,12 +136,12 @@ Nach 4 Monaten:
 ## Monat 8: Dashboards, Integration & Reporting
 
 **Features:**
-- **Übersichts-Dashboard:**
+- Übersichts-Dashboard:
   - Projektübersicht mit Verkaufsstatus aller Einheiten
   - Baufortschritt-Zusammenfassung
   - Kennzahlen auf einen Blick
 - Baufortschritt für Vertriebspartner sichtbar
-- **Käufer-Updates:** Baufortschritt automatisch an Käuferportal (MyVesto)
+- Käufer-Updates: Baufortschritt automatisch an Käuferportal (MyVesto)
 - Foto-Sharing mit Käufern (optional)
 - Verzögerungsindikatoren in allen Ansichten
 - Fortschritts-Reports (PDF-Export)
@@ -152,7 +152,7 @@ Nach 4 Monaten:
 
 ## Meilenstein 2 Ergebnis
 
-Nach 8 Monaten zusätzlich:
+Nach 8. Monat zusätzlich:
 - ✅ Übersichts-Dashboard mit Kennzahlen
 - ✅ Automatische Projektbewertung mit Ampel-System
 - ✅ Vollständige Bauphasen-Dokumentation
@@ -175,7 +175,7 @@ Nach 8 Monaten zusätzlich:
 - Mängeldokumentation mit Fotos
 - Status-Tracking (offen/behoben)
 
-**Nutzen:** Rechtssichere digitale Übergabe, keine Papierformulare mehr.
+**Nutzen:** Digitale Übergabe, keine Papierformulare mehr.
 
 ---
 
@@ -221,7 +221,7 @@ Nach 8 Monaten zusätzlich:
 
 ## Meilenstein 3 Ergebnis
 
-Nach 12 Monaten zusätzlich:
+Nach 12. Monat zusätzlich:
 - ✅ Digitale Übergabeprotokolle
 - ✅ Notartermin-Koordination
 - ✅ Erstvermietungsmanagement
@@ -252,7 +252,7 @@ Nach 12 Monaten zusätzlich:
 | Position | Betrag |
 |----------|--------|
 | **Gesamtentwicklung (12 Monate)** | **80.000 €** |
-| Perpetual-Lizenzen | ✅ Inkludiert |
+| Keine zukünftigen Kosten für Lizenzen | ✅ Inkludiert |
 | Wartung ab Monat 13 | 500 €/Monat |
 
 ## Zahlungsplan
@@ -262,14 +262,14 @@ Monatliche Zahlung à **6.600 €** (12 Raten < 80.000 €)
 ## Projektbegleitung
 
 - **Monatliche Präsentations-Calls** zur Fortschrittsbesprechung
-- **Alpha-Testphase:** Features sind nach Abschluss jedes Monats testbar
+- **Alpha-Testphase:** Features sind nach Abschluss jedes Monats testbar und werden nach erfolgreichem Test in den Produktivbetrieb übernommen
 - Direkter Draht zum Entwicklungsteam für Feedback
 
 ## Nach Fertigstellung (ab Monat 13)
 
-- **Wartungsgebühr:** 500 €/Monat
+- Wartungsgebühr: 500 €/Monat
 - Inkludiert: Bugfixes, Sicherheitsupdates, kleine Anpassungen
-- **Perpetual-Lizenzen:** Unbegrenzte Nutzung, keine zusätzlichen Lizenzkosten
+- Lizenzen: keine zusätzlichen Lizenzkosten
 
 ---
 
